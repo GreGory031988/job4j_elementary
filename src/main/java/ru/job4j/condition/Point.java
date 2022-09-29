@@ -9,5 +9,11 @@ public class Point {
         public static void main(String[] args) {
         double d = Point.distance(0, 0, 2, 0);
         System.out.println("result (0, 0) to (2, 0) are " + d);
+        double d1 = Point.distance(0, 0, 3, 4);
+        System.out.println("result (0, 0) to (2, 2) are " + d1);
+        double d2 = Point.distance(2, 3, 2, 2);
+        System.out.println("result (2, 3) to (2, 2) are " + d2);
+        double d3 = Point.distance(1, 0, 7, 0);
+        System.out.println("result (1, 0) to (7, 0) are " + d3);
     }
 }
