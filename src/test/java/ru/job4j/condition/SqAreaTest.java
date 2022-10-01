@@ -24,7 +24,7 @@ public class SqAreaTest {
     }
 
     @Test
-    public void whenP18K5Square24() {
+    public void whenP20K1dot5Square24() {
         int expected = 24;
         int p = 20;
         double k = 1.5;
