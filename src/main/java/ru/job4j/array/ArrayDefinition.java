@@ -13,7 +13,6 @@ public class ArrayDefinition {
         names[1] = "Oleg";
         names[2] = "Yan";
         names[3] = "Misha";
-        String nam = names[0];
         System.out.println(names[0]);
         System.out.println(names[1]);
         System.out.println(names[2]);
